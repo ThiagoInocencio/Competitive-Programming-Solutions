@@ -1,2 +1,2 @@
-# Competitive-Programming-Solutions
-My solutions for online judge's problems.
+# Competitive-Programming-Solutions-
+My codes used to solve online judge's problems.
